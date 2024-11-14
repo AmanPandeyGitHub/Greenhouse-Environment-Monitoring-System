@@ -105,18 +105,17 @@ The graphs update every second, displaying only the last eight data points for e
 
 Here are some example readings from the greenhouse environment monitoring project:
 
-- **Temperature Graph**  
-  ![image](https://github.com/user-attachments/assets/ad2e6d22-0779-4456-90ba-b912f3e2749b)
+- **Temperature Graph**
+- ![image](https://github.com/user-attachments/assets/ad2e6d22-0779-4456-90ba-b912f3e2749b)
 
 - **Humidity Graph**
-  ![image](https://github.com/user-attachments/assets/29f2c752-57f5-4b14-8478-0d0a359e6481)
+- ![image](https://github.com/user-attachments/assets/29f2c752-57f5-4b14-8478-0d0a359e6481)
 
 - **Light Intensity (LDR) Graph**
-  ![image](https://github.com/user-attachments/assets/eab45e9d-556c-41f3-b2d4-2d5fc686ab16)
+- ![image](https://github.com/user-attachments/assets/eab45e9d-556c-41f3-b2d4-2d5fc686ab16)
 
-
-- **Soil Moisture Graph**  
-  ![image](https://github.com/user-attachments/assets/0311bd45-fcce-4a1d-90ae-e51d325ad935)
+- **Soil Moisture Graph**
+- ![image](https://github.com/user-attachments/assets/0311bd45-fcce-4a1d-90ae-e51d325ad935)
 
 ## License
 
